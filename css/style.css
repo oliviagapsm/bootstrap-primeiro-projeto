@@ -1,0 +1,38 @@
+.navbar {
+    background-color: aquamarine;
+    font-size: large;
+}
+
+.quem-somos{
+    background-color: rgb(252, 213, 162);
+    color: white;
+    font-family: italic;
+}
+
+.paginas{
+    background-color: whitesmoke;
+    color: black;
+    font-family: italic;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.margin2{
+    padding-right: 20px;
+}
+
+.margin3{
+    padding-left: 20px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+.site1 {
+    border-radius: 8px;
+}
